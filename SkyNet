@@ -1,4 +1,4 @@
-import tweepy #1
+import tweepy #
 
 consumer_key = 'your_consumer_key'
 consumer_secret = 'your_consumer_secret'
